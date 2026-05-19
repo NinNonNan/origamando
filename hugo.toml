@@ -11,4 +11,24 @@ theme = "blowfish"
 
   [params.author]
     name = "Professor Origami"
-    email = "nino@example.com"
+    email = "proforigami@origamando.com"
+
+  [menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "esperimenti"
+    name = "Esperimenti"
+    url = "/esperimenti/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "impatto"
+    name = "Origamando Forest"
+    url = "/impatto/"
+    weight = 3

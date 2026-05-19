@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esperimentis on Origamando</title>
+    <link>http://localhost:1313/esperimenti/</link>
+    <description>Recent content in Esperimentis on Origamando</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/esperimenti/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Esperimento #001 — Boot del Laboratorio</title>
+      <link>http://localhost:1313/esperimenti/esperimento-001/</link>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/esperimenti/esperimento-001/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;SYSTEM START&amp;hellip;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Il laboratorio del Professor Origami è online.&#xA;Prime pieghe inizializzate.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

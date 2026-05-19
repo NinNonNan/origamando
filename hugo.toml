@@ -1,0 +1,11 @@
+baseURL = "https://origamando.com/"
+languageCode = "it-it"
+title = "Origamando"
+
+theme = "terminal"
+
+[params]
+  contentTypeName = "esperimenti"
+  themeColor = "orange"
+  showMenuItems = 3
+  fullWidthTheme = false

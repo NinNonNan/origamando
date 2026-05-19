@@ -4,22 +4,18 @@
     <title>Setup on Origamando</title>
     <link>http://localhost:1313/tags/setup/</link>
     <description>Recent content in Setup on Origamando</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>it-it</language>
     <managingEditor>proforigami@origamando.com (Professor Origami)</managingEditor>
     <webMaster>proforigami@origamando.com (Professor Origami)</webMaster>
-    <copyright>© 2026 Professor Origami</copyright>
-    <lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/setup/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/setup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Esperimento #001 — Boot del Laboratorio</title>
       <link>http://localhost:1313/esperimenti/esperimento-001/</link>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <author>proforigami@origamando.com (Professor Origami)</author>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate><author>proforigami@origamando.com (Professor Origami)</author>
       <guid>http://localhost:1313/esperimenti/esperimento-001/</guid>
-      <description>&lt;blockquote&gt;&lt;p&gt;SYSTEM START&amp;hellip;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&lt;p&gt;Il laboratorio del Professor Origami è online.&#xA;Prime pieghe inizializzate..&lt;/p&gt;</description>
-      
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;SYSTEM START&amp;hellip;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Il laboratorio del Professor Origami è online.&#xA;Prime pieghe inizializzate..&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

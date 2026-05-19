@@ -1,0 +1,17 @@
+{{ with site.Data.forest.species }}
+
+<ul class="forest-species">
+
+{{ range . }}
+
+<li>
+    <i class="fas fa-tree orange-icon"></i>
+    <strong>{{ .name }}</strong>:
+    {{ .count }} alberi ({{ .percent }}%)
+</li>
+
+{{ end }}
+
+</ul>
+
+{{ end }}

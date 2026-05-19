@@ -1,0 +1,21 @@
+{
+  "project": "Origamando Forest",
+  "start_date": "2026-05-19",
+  "partner": "ZeroCO2",
+
+  "metrics": {
+    "planted_trees": 2,
+    "square_meters": 18,
+    "stored_co2_kg": 1041.318
+  },
+
+  "species": [
+    {
+      "name": "Cedro",
+      "count": 2,
+      "percent": 100
+    }
+  ],
+
+  "last_updated": "AUTO_FROM_SCRIPT"
+}

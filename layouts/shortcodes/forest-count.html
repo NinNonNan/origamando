@@ -1,0 +1,7 @@
+{{ $data := site.Data.forest }}
+
+{{ if $data }}
+  {{ $data.metrics.planted_trees }}
+{{ else }}
+  0
+{{ end }}

@@ -1,13 +1,11 @@
 baseURL = "https://origamando.com/"
 languageCode = "it-it"
 title = "Origamando"
-theme = "blowfish"
+theme = "terminal"
 
 [params]
+  # Terminal usa parametri diversi. Puoi iniziare con quelli base:
   contentTypeName = "esperimenti"
-  themeColor = "orange"
-  showMenuItems = 3
-  fullWidthTheme = false
 
   [params.author]
     name = "Professor Origami"
@@ -32,3 +30,6 @@ theme = "blowfish"
     name = "Origamando Forest"
     url = "/impatto/"
     weight = 3
+
+  [markup.goldmark.renderer]
+    unsafe = true

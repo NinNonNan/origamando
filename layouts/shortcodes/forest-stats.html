@@ -1,0 +1,25 @@
+{{ with site.Data.forest }}
+
+<ul class="forest-stats">
+
+    <li>
+        <i class="fas fa-leaf orange-icon"></i>
+        Alberi piantati:
+        <strong>{{ .metrics.planted_trees }}</strong>
+    </li>
+
+    <li>
+        <i class="fas fa-expand-arrows-alt orange-icon"></i>
+        Superficie coperta:
+        <strong>{{ .metrics.square_meters }} m²</strong>
+    </li>
+
+    <li>
+        <i class="fas fa-cloud orange-icon"></i>
+        CO₂ assorbita:
+        <strong>{{ .metrics.stored_co2_kg }} kg</strong>
+    </li>
+
+</ul>
+
+{{ end }}

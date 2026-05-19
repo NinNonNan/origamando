@@ -1,11 +1,14 @@
 baseURL = "https://ninnonnan.github.io/origamando/"
 languageCode = "it-it"
 title = "Origamando"
-
-theme = "terminal"
+theme = "blowfish"
 
 [params]
   contentTypeName = "esperimenti"
   themeColor = "orange"
   showMenuItems = 3
   fullWidthTheme = false
+
+  [params.author]
+    name = "Professor Origami"
+    email = "nino@example.com"

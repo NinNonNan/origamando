@@ -6,8 +6,7 @@
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content=" SYSTEM START&hellip;
-Il laboratorio del Professor Origami è online. Prime pieghe inizializzate..
+<meta name="description" content="Il laboratorio del Professor Origami è online. Prime pieghe inizializzate&hellip;
 " />
 <meta name="keywords" content="" />
 
@@ -20,7 +19,7 @@ Il laboratorio del Professor Origami è online. Prime pieghe inizializzate..
 
 
   
-  <link rel="stylesheet" href="http://localhost:1313/css/custom.min.85979edfc262df269c870760a3a12e701cde9871b95c5f4d223263ffe38d983e.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/custom.min.14e4bd2bf60d55c06ff9930b40ca98e3fc11fdd792fa15ab62167eddc2bf877a.css">
 
   
   <link rel="stylesheet" href="http://localhost:1313/css/buttons.min.86f6b4c106b6c6eb690ae5203d36b442c1f66f718ff4e8164fa86cf6c61ad641.css">
@@ -78,8 +77,7 @@ Il laboratorio del Professor Origami è online. Prime pieghe inizializzate..
 <meta property="og:locale" content="it" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Esperimento #001 — Boot del Laboratorio">
-<meta property="og:description" content=" SYSTEM START&hellip;
-Il laboratorio del Professor Origami è online. Prime pieghe inizializzate..
+<meta property="og:description" content="Il laboratorio del Professor Origami è online. Prime pieghe inizializzate&hellip;
 " />
 <meta property="og:url" content="http://localhost:1313/esperimenti/esperimento-001/" />
 <meta property="og:site_name" content="Origamando" />
@@ -102,6 +100,10 @@ Il laboratorio del Professor Origami è online. Prime pieghe inizializzate..
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 <link rel="stylesheet" href="/css/custom.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
 
 </head>
 <body>
@@ -130,11 +132,11 @@ Il laboratorio del Professor Origami è online. Prime pieghe inizializzate..
         
       
         
-          <li><a href="/esperimenti/">Esperimenti</a></li>
+          <li><a href="/experiment/">Experiment</a></li>
         
       
         
-          <li><a href="/impatto/">Origamando Forest</a></li>
+          <li><a href="/forest/">Forest</a></li>
         
       
       
@@ -155,11 +157,11 @@ Il laboratorio del Professor Origami è online. Prime pieghe inizializzate..
         
       
         
-          <li><a href="/esperimenti/" >Esperimenti</a></li>
+          <li><a href="/experiment/" >Experiment</a></li>
         
       
         
-          <li><a href="/impatto/" >Origamando Forest</a></li>
+          <li><a href="/forest/" >Forest</a></li>
         
       
     
@@ -173,14 +175,68 @@ Il laboratorio del Professor Origami è online. Prime pieghe inizializzate..
   <div class="content">
     
 
+
+
 <article class="post">
-    <blockquote>
-<p>SYSTEM START&hellip;</p>
-</blockquote>
-<p>Il laboratorio del Professor Origami è online.
-Prime pieghe inizializzate..</p>
+
+  <div class="terminal">
+
+    <div class="line boot">
+      SYSTEM START...<span class="cursor">█</span>
+    </div>
+
+    <div class="line delay1">
+      Initializing Origamando core systems...
+    </div>
+
+    <div class="line delay2">
+      Loading paper-folding modules...
+    </div>
+
+    <div class="line delay3">
+      Connecting to Forest subsystem...
+    </div>
+
+    <div class="line success">
+      ✔ Laboratory online
+    </div>
+
+    <div class="line blank">&nbsp;</div>
+
+    <div class="line output">
+      <pre class="terminal-text"><p>Il laboratorio del Professor Origami è online.
+Prime pieghe inizializzate&hellip;</p>
+</pre>
+    </div>
+
+  </div>
 
 </article>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+
+  const el = document.querySelector(".terminal-text");
+  if (!el) return;
+
+  const text = el.textContent;
+  el.textContent = "";
+
+  let i = 0;
+
+  function type() {
+    if (i < text.length) {
+      el.textContent += text.charAt(i);
+      i++;
+      setTimeout(type, 15);
+    }
+  }
+
+  type();
+});
+</script>
+
+
 
 
   </div>

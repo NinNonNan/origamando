@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Origamando</title>
+    <link>http://localhost:1313/tags/test/</link>
+    <description>Recent content in Test on Origamando</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <managingEditor>proforigami@origamando.com (Professor Origami)</managingEditor>
+    <webMaster>proforigami@origamando.com (Professor Origami)</webMaster>
+    <lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Esperimento #002 — Terminal Live Test</title>
+      <link>http://localhost:1313/esperimenti/esperimento-002/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate><author>proforigami@origamando.com (Professor Origami)</author>
+      <guid>http://localhost:1313/esperimenti/esperimento-002/</guid>
+      <description>&lt;div class=&#34;terminal&#34;&gt;&#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;line boot&#34;&gt;&#xD;&#xA;    SYSTEM START...&lt;span class=&#34;cursor&#34;&gt;█&lt;/span&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;line success&#34;&gt;&#xD;&#xA;    ✔ Laboratory online&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;line blank&#34;&gt;&amp;nbsp;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;line output&#34;&gt;&#xD;&#xA;    &lt;span id=&#34;terminal-text&#34;&gt;&lt;/span&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;script&gt;&#xD;&#xA;document.addEventListener(&#34;DOMContentLoaded&#34;, () =&gt; {&#xD;&#xA;  const text = `\r\nIl laboratorio del Professor Origami è entrato in modalità sperimentale.\r\n\r\nSistema di output attivato.\r\nSensori della foresta in standby.\r\n\r\nQuesto è un test del sistema di rendering narrativo del terminale.\r\n\r\nOgni carattere viene ora trasmesso come flusso continuo.\r\n`;&#xD;&#xA;  const target = document.getElementById(&#34;terminal-text&#34;);&#xD;&#xA;&#xD;&#xA;  if (!target) return;&#xD;&#xA;&#xD;&#xA;  let i = 0;&#xD;&#xA;&#xD;&#xA;  function type() {&#xD;&#xA;    if (i &lt; text.length) {&#xD;&#xA;      target.innerHTML += text.charAt(i);&#xD;&#xA;      i++;&#xD;&#xA;      setTimeout(type, 15);&#xD;&#xA;    }&#xD;&#xA;  }&#xD;&#xA;&#xD;&#xA;  type();&#xD;&#xA;});&#xD;&#xA;&lt;/script&gt;</description>
+    </item>
+  </channel>
+</rss>

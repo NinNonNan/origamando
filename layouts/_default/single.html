@@ -1,7 +1,49 @@
 {{ define "main" }}
 
+{{ if eq .Section "experiment" }}
+
 <article class="post">
-    {{ .Content }}
+
+  <div class="terminal">
+
+    <div class="line boot">
+      SYSTEM START...<span class="cursor">█</span>
+    </div>
+
+    <div class="line delay1">
+      Initializing Origamando core systems...
+    </div>
+
+    <div class="line delay2">
+      Loading paper-folding modules...
+    </div>
+
+    <div class="line delay3">
+      Connecting to Forest subsystem...
+    </div>
+
+    <div class="line success">
+      ✔ Laboratory online
+    </div>
+
+    <div class="line blank">&nbsp;</div>
+
+    <div class="line output">
+      <pre class="terminal-text">{{ .Content }}</pre>
+    </div>
+
+  </div>
+
 </article>
+
+{{ partial "terminal-script.html" . }}
+
+{{ else }}
+
+<article class="post">
+  {{ .Content }}
+</article>
+
+{{ end }}
 
 {{ end }}

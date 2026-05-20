@@ -5,7 +5,5 @@ draft: false
 tags: ["setup", "log"]
 ---
 
-> SYSTEM START...
-
 Il laboratorio del Professor Origami è online.
-Prime pieghe inizializzate..
+Prime pieghe inizializzate...

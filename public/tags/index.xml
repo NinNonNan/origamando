@@ -8,8 +8,43 @@
     <language>it-it</language>
     <managingEditor>proforigami@origamando.com (Professor Origami)</managingEditor>
     <webMaster>proforigami@origamando.com (Professor Origami)</webMaster>
-    <lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ecology</title>
+      <link>http://localhost:1313/tags/ecology/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate><author>proforigami@origamando.com (Professor Origami)</author>
+      <guid>http://localhost:1313/tags/ecology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prototype</title>
+      <link>http://localhost:1313/tags/prototype/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate><author>proforigami@origamando.com (Professor Origami)</author>
+      <guid>http://localhost:1313/tags/prototype/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raspberry-Pi</title>
+      <link>http://localhost:1313/tags/raspberry-pi/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate><author>proforigami@origamando.com (Professor Origami)</author>
+      <guid>http://localhost:1313/tags/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Server</title>
+      <link>http://localhost:1313/tags/server/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate><author>proforigami@origamando.com (Professor Origami)</author>
+      <guid>http://localhost:1313/tags/server/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Terminal</title>
+      <link>http://localhost:1313/tags/terminal/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate><author>proforigami@origamando.com (Professor Origami)</author>
+      <guid>http://localhost:1313/tags/terminal/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Log</title>
       <link>http://localhost:1313/tags/log/</link>

@@ -8,14 +8,21 @@
     <language>it-it</language>
     <managingEditor>proforigami@origamando.com (Professor Origami)</managingEditor>
     <webMaster>proforigami@origamando.com (Professor Origami)</webMaster>
-    <lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/esperimenti/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Esperimento #002 — Terminal Live Test</title>
+      <link>http://localhost:1313/esperimenti/esperimento-002/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate><author>proforigami@origamando.com (Professor Origami)</author>
+      <guid>http://localhost:1313/esperimenti/esperimento-002/</guid>
+      <description>&lt;p&gt;Il laboratorio del Professor Origami è entrato in modalità sperimentale.&lt;/p&gt;&#xA;&lt;p&gt;Sistema di output attivato.&#xA;Sensori della foresta in standby.&lt;/p&gt;&#xA;&lt;p&gt;Questo è un test del sistema di rendering narrativo del terminale.&lt;/p&gt;&#xA;&lt;h2 id=&#34;dettagli&#34;&gt;Dettagli&lt;/h2&gt;&#xA;&lt;p&gt;Qui puoi mettere tutto il contenuto.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Esperimento #001 — Boot del Laboratorio</title>
       <link>http://localhost:1313/esperimenti/esperimento-001/</link>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate><author>proforigami@origamando.com (Professor Origami)</author>
       <guid>http://localhost:1313/esperimenti/esperimento-001/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;SYSTEM START&amp;hellip;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Il laboratorio del Professor Origami è online.&#xA;Prime pieghe inizializzate..&lt;/p&gt;</description>
+      <description>&lt;p&gt;Il laboratorio del Professor Origami è online.&#xA;Prime pieghe inizializzate&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

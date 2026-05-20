@@ -17,13 +17,13 @@ theme = "terminal"
     email = "proforigami@origamando.com"
 
 [[menu.main]]
-  name = "Origamando Forest"
-  url = "/impatto/"
+  name = "Forest"
+  url = "/forest/"
   weight = 3
 
 [[menu.main]]
-  name = "Esperimenti"
-  url = "/esperimenti/"
+  name = "Experiment"
+  url = "/experiment/"
   weight = 2
 
 [[menu.main]]

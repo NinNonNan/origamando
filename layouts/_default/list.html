@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<section class="posts">
+
+  <!-- 🌱 CONTENUTO DELLA SEZIONE (_index.md) -->
+  {{ .Content }}
+
+  <!-- 📚 LISTA POST -->
+  {{ range .Pages }}
+
+    <article class="post">
+
+      <h2>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </h2>
+
+      <div class="excerpt">
+        {{ .Summary }}
+      </div>
+
+    </article>
+
+  {{ end }}
+
+</section>
+
+{{ end }}

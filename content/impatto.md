@@ -1,8 +1,8 @@
 ---
 title: "Origamando Forest"
 description: "Il progetto di impatto ambientale di Origamando"
+date: "2026-05-19"
 start_date: "2026-05-19"
-partner: "ZeroCO2"
 ---
 
 # <i class="fas fa-seedling orange-icon"></i> Origamando Forest
@@ -11,7 +11,10 @@ Origamando non è solo un laboratorio di origami.
 
 È anche un piccolo esperimento di impatto reale sul mondo.
 
-Attraverso le attività del progetto, una parte dei proventi delle fiere viene destinata alla riforestazione tramite ZeroCO2.
+Attraverso le attività del progetto, una parte dei proventi delle fiere viene destinata alla riforestazione tramite {{< org "https://www.zeroco2.eco" "ZeroCO2" >}}.
+
+> <i class="fas fa-circle-info orange-icon"></i> In realtà, prima della nascita ufficiale di Origamando Forest, c’era già un albero acquistato nel 2024.  
+> All’inizio non faceva parte del progetto, ma col tempo ho deciso di considerarlo il primo vero seme della foresta.
 
 ---
 
@@ -30,11 +33,13 @@ Attraverso le attività del progetto, una parte dei proventi delle fiere viene d
 
 ---
 
-# <i class="fas fa-chart-line orange-icon"></i> Regola del progetto
+<i class="fas fa-chart-line orange-icon"></i> Regola del progetto
 
-Ogni contributo economico generato dalle fiere Origamando viene convertito in impatto ambientale secondo una semplice regola:
+Ogni attività di Origamando genera un piccolo impatto economico che viene reinvestito in impatto ambientale.
 
-> Una parte fissa o una soglia definita dei proventi viene destinata alla piantumazione di nuovi alberi.
+Il 15% dei proventi dei laboratori (svolti principalmente durante le fiere e i periodi di attività speciali) viene destinato al Fondo Foresta Origamando.
+
+Questo fondo viene utilizzato per acquistare alberi tramite il programma di riforestazione di {{< org "https://www.zeroco2.eco" "ZeroCO2" >}}, contribuendo alla crescita della foresta del progetto.
 
 ---
 
@@ -47,4 +52,6 @@ una piega del mondo reale verso una forma più sostenibile.
 
 # <i class="fas fa-globe-europe orange-icon"></i> Trasparenza
 
-Questo progetto viene aggiornato automaticamente in base ai dati reali della foresta ZeroCO2.
+Questo progetto viene aggiornato automaticamente in base ai dati reali della foresta di ZeroCO2.
+
+<i class="fas fa-link orange-icon"></i> Sito ufficiale: https://www.zeroco2.eco

@@ -1,35 +1,35 @@
 baseURL = "https://origamando.com/"
 languageCode = "it-it"
+defaultContentLanguage = "it"
 title = "Origamando"
 theme = "terminal"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
-  # Terminal usa parametri diversi. Puoi iniziare con quelli base:
   contentTypeName = "esperimenti"
+  # Terminal usa spesso il verde o altri colori retro. 
+  # Il tuo CSS personalizzato gestirà le icone arancioni indipendentemente.
 
   [params.author]
     name = "Professor Origami"
     email = "proforigami@origamando.com"
 
-  [menu]
+[[menu.main]]
+  name = "Origamando Forest"
+  url = "/impatto/"
+  weight = 3
 
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
+[[menu.main]]
+  name = "Esperimenti"
+  url = "/esperimenti/"
+  weight = 2
 
-  [[menu.main]]
-    identifier = "esperimenti"
-    name = "Esperimenti"
-    url = "/esperimenti/"
-    weight = 2
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
 
-  [[menu.main]]
-    identifier = "impatto"
-    name = "Origamando Forest"
-    url = "/impatto/"
-    weight = 3
-
-  [markup.goldmark.renderer]
-    unsafe = true
+[markup.goldmark.renderer]
+  unsafe = true

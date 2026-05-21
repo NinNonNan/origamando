@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Log on Origamando</title>
-    <link>http://localhost:1313/tags/log/</link>
+    <link>https://origamando.com/tags/log/</link>
     <description>Recent content in Log on Origamando</description>
     <generator>Hugo</generator>
     <language>it-it</language>
     <managingEditor>proforigami@origamando.com (Professor Origami)</managingEditor>
     <webMaster>proforigami@origamando.com (Professor Origami)</webMaster>
     <lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/log/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://origamando.com/tags/log/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Esperimento #001 — Boot del Laboratorio</title>
-      <link>http://localhost:1313/experiment/esperimento-001/</link>
+      <link>https://origamando.com/experiment/esperimento-001/</link>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate><author>proforigami@origamando.com (Professor Origami)</author>
-      <guid>http://localhost:1313/experiment/esperimento-001/</guid>
+      <guid>https://origamando.com/experiment/esperimento-001/</guid>
       <description>&lt;p&gt;Il laboratorio del Professor Origami è online.&#xA;Prime pieghe inizializzate&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>

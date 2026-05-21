@@ -16,6 +16,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
         with:
@@ -24,11 +25,14 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: "latest"
           extended: true
 
       - name: Build
-        run: hugo
+        run: hugo --minify --gc --cleanDestinationDir
+
+      - name: Debug (verify output)
+        run: ls -R public/css
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -38,6 +42,7 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+
     steps:
       - name: Deploy
         uses: actions/deploy-pages@v4

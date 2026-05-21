@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/ecology/</loc>
+    <loc>https://origamando.com/tags/ecology/</loc>
     <lastmod>2026-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/experiment/esperimento-002/</loc>
+    <loc>https://origamando.com/experiment/esperimento-002/</loc>
     <lastmod>2026-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/experiment/</loc>
+    <loc>https://origamando.com/experiment/</loc>
     <lastmod>2026-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://origamando.com/</loc>
     <lastmod>2026-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/experiment/esperimento-003/</loc>
+    <loc>https://origamando.com/experiment/esperimento-003/</loc>
     <lastmod>2026-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/prototype/</loc>
+    <loc>https://origamando.com/tags/prototype/</loc>
     <lastmod>2026-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/raspberry-pi/</loc>
+    <loc>https://origamando.com/tags/raspberry-pi/</loc>
     <lastmod>2026-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/server/</loc>
+    <loc>https://origamando.com/tags/server/</loc>
     <lastmod>2026-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://origamando.com/tags/</loc>
     <lastmod>2026-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/terminal/</loc>
+    <loc>https://origamando.com/tags/terminal/</loc>
     <lastmod>2026-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/experiment/esperimento-001/</loc>
+    <loc>https://origamando.com/experiment/esperimento-001/</loc>
     <lastmod>2026-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/log/</loc>
+    <loc>https://origamando.com/tags/log/</loc>
     <lastmod>2026-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/setup/</loc>
+    <loc>https://origamando.com/tags/setup/</loc>
     <lastmod>2026-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://origamando.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/forest/</loc>
+    <loc>https://origamando.com/forest/</loc>
   </url>
 </urlset>

@@ -1,14 +1,11 @@
 ---
 title: "Origamando Forest"
 description: "Il progetto di impatto ambientale di Origamando"
-date: "2026-05-19"
-start_date: "2026-05-19"
 ---
 
 # <i class="fas fa-seedling orange-icon"></i> Origamando Forest
 
 Origamando non è solo un laboratorio di origami.
-
 È anche un piccolo esperimento di impatto reale sul mondo.
 
 Attraverso le attività del progetto, una parte dei proventi delle fiere viene destinata alla riforestazione tramite {{< org "https://www.zeroco2.eco" "ZeroCO2" >}}.

@@ -1,8 +1,9 @@
 ---
-title: "Project #001 — Portable Plant Server"
+title: "Project #003 — Portable Plant Server"
 date: 2026-05-20
 draft: false
 tags: ["raspberry-pi", "server", "ecology", "prototype"]
+excerpt: "Il progetto di un sistema di server vivente Pianta+Raspberry, per portare agli eventi un pezzo del sito."
 ---
 
 # Portable Plant Server

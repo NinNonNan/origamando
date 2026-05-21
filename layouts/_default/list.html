@@ -14,9 +14,19 @@
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       </h2>
 
+      <!-- 🧾 EXCERPT PERSONALIZZATO -->
       <div class="excerpt">
-        {{ .Summary }}
+        {{ with .Params.excerpt }}
+          {{ . }}
+        {{ else }}
+          {{ .Summary }}
+        {{ end }}
       </div>
+
+      <!-- 🔗 LINK READ MORE -->
+      <a class="read-more" href="{{ .RelPermalink }}">
+        Apri esperimento →
+      </a>
 
     </article>
 

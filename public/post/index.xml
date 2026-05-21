@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Origamando</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Origamando</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <managingEditor>proforigami@origamando.com (Professor Origami)</managingEditor>
+    <webMaster>proforigami@origamando.com (Professor Origami)</webMaster>
+    <lastBuildDate>Thu, 21 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 001 — Test del Laboratorio</title>
+      <link>http://localhost:1313/post/post-001/</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate><author>proforigami@origamando.com (Professor Origami)</author>
+      <guid>http://localhost:1313/post/post-001/</guid>
+      <description>&lt;h1 id=&#34;post-001--origamando&#34;&gt;Post 001 — Origamando&lt;/h1&gt;&#xA;&lt;p&gt;Questo è il primo post numerato della sezione &lt;strong&gt;post&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Il sistema del laboratorio ora distingue chiaramente:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;post → contenuti divulgativi&lt;/li&gt;&#xA;&lt;li&gt;forest → narrazione ecologica e progetto&lt;/li&gt;&#xA;&lt;li&gt;experiment → log tecnici e terminale&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;✔ Sistema operativo&lt;br&gt;&#xA;✔ Struttura verificata&lt;br&gt;&#xA;✔ Primo nodo del blog attivo&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experiments on Origamando</title>
-    <link>https://origamando.com/experiment/</link>
+    <link>http://localhost:1313/experiment/</link>
     <description>Recent content in Experiments on Origamando</description>
     <generator>Hugo</generator>
     <language>it-it</language>
     <managingEditor>proforigami@origamando.com (Professor Origami)</managingEditor>
     <webMaster>proforigami@origamando.com (Professor Origami)</webMaster>
     <lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://origamando.com/experiment/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/experiment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Esperimento #002 — Terminal Live Test</title>
-      <link>https://origamando.com/experiment/esperimento-002/</link>
+      <link>http://localhost:1313/experiment/esperimento-002/</link>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate><author>proforigami@origamando.com (Professor Origami)</author>
-      <guid>https://origamando.com/experiment/esperimento-002/</guid>
+      <guid>http://localhost:1313/experiment/esperimento-002/</guid>
       <description>&lt;p&gt;Il laboratorio del Professor Origami è entrato in modalità sperimentale.&lt;/p&gt;&#xA;&lt;p&gt;Sistema di output attivato.&#xA;Sensori della foresta in standby.&lt;/p&gt;&#xA;&lt;p&gt;Questo è un test del sistema di rendering narrativo del terminale.&lt;/p&gt;&#xA;&lt;h2 id=&#34;dettagli&#34;&gt;Dettagli&lt;/h2&gt;&#xA;&lt;p&gt;Qui puoi mettere tutto il contenuto.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Project #003 — Portable Plant Server</title>
-      <link>https://origamando.com/experiment/esperimento-003/</link>
+      <link>http://localhost:1313/experiment/esperimento-003/</link>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate><author>proforigami@origamando.com (Professor Origami)</author>
-      <guid>https://origamando.com/experiment/esperimento-003/</guid>
+      <guid>http://localhost:1313/experiment/esperimento-003/</guid>
       <description>&lt;h1 id=&#34;portable-plant-server&#34;&gt;Portable Plant Server&lt;/h1&gt;&#xA;&lt;h2 id=&#34;concept&#34;&gt;Concept&lt;/h2&gt;&#xA;&lt;p&gt;Creare un piccolo server portatile ospitato all’interno di un vaso contenente una vera pianta.&lt;/p&gt;&#xA;&lt;p&gt;L’idea è trasformare il server in un oggetto vivo e narrativo:&#xA;non solo un dispositivo tecnico, ma un ecosistema in miniatura che rappresenta il legame tra tecnologia, natura e sperimentazione.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;obiettivo&#34;&gt;Obiettivo&lt;/h2&gt;&#xA;&lt;p&gt;Realizzare un prototipo da portare a fiere, laboratori ed eventi.&lt;/p&gt;&#xA;&lt;p&gt;Il sistema deve:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ospitare il sito Origamando localmente&lt;/li&gt;&#xA;&lt;li&gt;funzionare come hotspot WiFi autonomo&lt;/li&gt;&#xA;&lt;li&gt;essere completamente integrato nel vaso&lt;/li&gt;&#xA;&lt;li&gt;contenere una vera pianta&lt;/li&gt;&#xA;&lt;li&gt;essere alimentabile a batteria&lt;/li&gt;&#xA;&lt;li&gt;essere espandibile in futuro con pannello solare&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;hardware-principale&#34;&gt;Hardware principale&lt;/h2&gt;&#xA;&lt;h3 id=&#34;raspberry-pi&#34;&gt;Raspberry Pi&lt;/h3&gt;&#xA;&lt;p&gt;Utilizzo di un vecchio Raspberry Pi 1 come server locale.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Esperimento #001 — Boot del Laboratorio</title>
-      <link>https://origamando.com/experiment/esperimento-001/</link>
+      <link>http://localhost:1313/experiment/esperimento-001/</link>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate><author>proforigami@origamando.com (Professor Origami)</author>
-      <guid>https://origamando.com/experiment/esperimento-001/</guid>
+      <guid>http://localhost:1313/experiment/esperimento-001/</guid>
       <description>&lt;p&gt;Il laboratorio del Professor Origami è online.&#xA;Prime pieghe inizializzate&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>

@@ -7,29 +7,33 @@ theme = "terminal"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-[params]
-  contentTypeName = "esperimenti"
-  # Terminal usa spesso il verde o altri colori retro. 
-  # Il tuo CSS personalizzato gestirà le icone arancioni indipendentemente.
+# ⚠️ rimosso contentTypeName perché crea confusione col tema
 
+[params]
   [params.author]
     name = "Professor Origami"
     email = "proforigami@origamando.com"
 
-[[menu.main]]
-  name = "Forest"
-  url = "/forest/"
-  weight = 3
-
-[[menu.main]]
-  name = "Experiment"
-  url = "/experiment/"
-  weight = 2
-
+# 📌 MENU COERENTE CON LE 3 SEZIONI REALI
 [[menu.main]]
   name = "Home"
   url = "/"
   weight = 1
+
+[[menu.main]]
+  name = "Post"
+  url = "/post/"
+  weight = 2
+
+[[menu.main]]
+  name = "Experiment"
+  url = "/experiment/"
+  weight = 3
+
+[[menu.main]]
+  name = "Forest"
+  url = "/forest/"
+  weight = 4
 
 [markup.goldmark.renderer]
   unsafe = true
